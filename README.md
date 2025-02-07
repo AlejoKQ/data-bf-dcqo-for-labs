@@ -17,7 +17,7 @@ The repository contains the following files
 
 [2] Gomez Cadavid, Alejandro *et al.*, Bias-field digitized counterdiabatic quantum optimization. arXiv:2405.13898, arXiv, 22 May 2024. arXiv.org, arxiv.org/abs/2405.13898.
 
-[3] Romero, Sebastian V. *et al.*, Bias-Field Digitized Counterdiabatic Quantum Algorithm for Higher-Order Binary Optimization. arXiv:2409.04477, arXiv, 05 Sept 2024. arXiv.orh arxiv.org/abs/2409.04477.
+[3] Romero, Sebastian V. *et al.*, Bias-Field Digitized Counterdiabatic Quantum Algorithm for Higher-Order Binary Optimization. arXiv:2409.04477, arXiv, 05 Sep 2024. arXiv.orh arxiv.org/abs/2409.04477.
 
 [4] Javadi-Abhari, Ali, *et al*. Quantum Computing with Qiskit. arXiv:2405.08810, arXiv, 15 May 2024. arXiv.org, arxiv.org/abs/2405.08810.
 
